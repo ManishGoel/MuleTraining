@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+	<student>
+		<id>1</id>
+		<firstName>Manish</firstName>
+		<lastName>Goel</lastName>
+		<age>32</age>
+		<zipcode>411017</zipcode>
+		<gender>male</gender>
+	</student>
+	<student>
+		<id>2</id>
+		<firstName>Kunika</firstName>
+		<lastName>Rathi</lastName>
+		<age>31</age>
+		<zipcode>411027</zipcode>
+		<gender>female</gender>
+	</student>
+</students>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+	<student>
+		<id>1</id>
+		<firstName>Manish</firstName>
+		<lastName>Goel</lastName>
+		<age>31</age>
+		<zipcode>411027</zipcode>
+		<gender>male</gender>
+	</student>
+		<student>
+		<id>3</id>
+		<firstName>Ishaan</firstName>
+		<lastName>Goel</lastName>
+		<age>5</age>
+		<zipcode>411017</zipcode>
+		<gender>male</gender>
+	</student>
+		<student>
+		<id>4</id>
+		<firstName>Suvidha</firstName>
+		<lastName>Goel</lastName>
+		<age>27</age>
+		<zipcode>411027</zipcode>
+		<gender>female</gender>
+	</student>
+		<student>
+		<id>5</id>
+		<firstName>Vishal</firstName>
+		<lastName>Goel</lastName>
+		<age>30</age>
+		<zipcode>247776</zipcode>
+		<gender>male</gender>
+	</student>
+</students>
